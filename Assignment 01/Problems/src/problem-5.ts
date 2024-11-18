@@ -8,7 +8,8 @@
     
     const person = { name: "Alice", age: 30 };
 
-    console.log(getProperty(person, "name"));
+    const property =(getProperty(person, "name"));
+    console.log(property)
 
     // 
 }

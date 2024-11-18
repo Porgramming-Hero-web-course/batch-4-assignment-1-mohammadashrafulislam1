@@ -10,7 +10,8 @@
     }
 // Sample Input :
 const myProfile = { name: "Alice", age: 25, email: "alice@example.com" };
-console.log(updateProfile(myProfile, { age: 26 }));
+const updatedProfile = (updateProfile(myProfile, { age: 26 }));
+console.log(updateProfile)
     
     // 
 }

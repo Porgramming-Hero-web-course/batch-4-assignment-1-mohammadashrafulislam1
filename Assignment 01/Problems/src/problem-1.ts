@@ -6,10 +6,10 @@
         for (const num of param){
           sum += num
         }
-        console.log(sum);
+        return (sum);
     }
     sumArray([1, 2, 3, 4, 5]);
-    // output from console.log(): 15;
+    console.log(sumArray)
 
 
 

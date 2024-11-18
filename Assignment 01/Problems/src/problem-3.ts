@@ -16,7 +16,7 @@
     }
     
     // Input:
-    console.log(countWordOccurrences("I love typescript", "typescript")); // Output: 1
-    
+    const wordChecking = (countWordOccurrences("I love typescript", "typescript")); // Output: 1
+    console.log(wordChecking)
     // 
 }
